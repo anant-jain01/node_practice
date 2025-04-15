@@ -1,5 +1,5 @@
-
-sayHi(john);
-sayHi("susan");
-sayHi(peter);
-sayHi(lois);
+const names = require("./names");
+const sayHi = require("./utils");
+sayHi(names.john);
+sayHi(names.peter);
+sayHi(names.lois);
