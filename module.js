@@ -9,4 +9,4 @@ const sayHi = (name) => {
 sayHi(john);
 sayHi("susan");
 sayHi(peter);
-
+sayHi(lois);
