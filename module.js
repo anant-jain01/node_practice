@@ -7,5 +7,6 @@ const sayHi = (name) => {
   console.log(`Hello ${name}`);
 };
 sayHi(john);
+sayHi("susan");
 sayHi(peter);
 sayHi(lois);
