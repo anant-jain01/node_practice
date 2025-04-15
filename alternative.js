@@ -1,4 +1,4 @@
 const person = {
   name: "bob",
 };
-MediaSourceHandle.exports.items = ["1", "2"];
+module.exports.items = ["1", "2"];
